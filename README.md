@@ -13,5 +13,5 @@ Lista de Python
 
 6. Escreva um programa para imprimir todos os números Armstrong entre 1 e 500. Se a soma dacada dígitoelevado a n, onde n é quantidade de dígitos que o número possui,for igual ao próprio número, então o número é chamado de número Armstrong.Por exemplo, 153 = (1 * 1 * 1) + (5 * 5 * 5) + (3 * 3 * 3)
 
-7.A  sequência  de  Fibonacci  tem  papel  importante  na  explicação  de  fenômenos  naturais.Ela  é também bastante utilizada para fins estéticos, pela sua reconhecida harmonia.Exemplo disso foi sua  utilização  na  construção  do  Partenon,  em  Atenas.  A  sequênciadá-se  inicialmente  por  dois números 1. A partir do terceiro elemento usa-se aexpressão: elementon= elementon-1 + elementon-2. Exemplo de sequência: 1, 1, 2, 3, 5,8, 13, ...
+7. A sequência  de  Fibonacci  tem  papel  importante  na  explicação  de  fenômenos  naturais.Ela  é também bastante utilizada para fins estéticos, pela sua reconhecida harmonia.Exemplo disso foi sua  utilização  na  construção  do  Partenon,  em  Atenas.  A  sequênciadá-se  inicialmente  por  dois números 1. A partir do terceiro elemento usa-se aexpressão: elementon= elementon-1 + elementon-2. Exemplo de sequência: 1, 1, 2, 3, 5,8, 13, ...
 Construa um algoritmo que imprima na tela os nprimeiros elementos da sequênciade Fibonacci, onde né informado pelo usuário.
